@@ -1,7 +1,7 @@
 import React from "react";
 import {Container, AppBar, Typography, Grow, Grid} from "@material-ui/core";
 
-import memories from "./components/assets/dreampop.jpg";
+import memories from "./assets/dreampop.jpg";
 import Posts from "./components/Posts/Posts.js";
 import Form from "./components/Form/Form.js";
 import useStyles from "./app-styles";
